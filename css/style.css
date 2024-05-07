@@ -1,0 +1,33 @@
+.card {
+    width: calc(100% / 3 - 70px);
+    margin-top: 50px;
+    padding-right: 0px; 
+    padding-left: 0px;  
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+.bg {
+    background-color: #1DB954; 
+}
+.card-body {
+    background-color: #121212; 
+}
+
+.card-title,
+.card-text {
+    color: #ffffff; 
+}
+
+header {
+    height: 70px;
+    background-color: #121212;
+}
+
+.logo {
+    margin-left: 20px;;
+    width: 50px;
+}
